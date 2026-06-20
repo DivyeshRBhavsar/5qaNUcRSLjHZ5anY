@@ -28,6 +28,7 @@ external/
 *.sqlite3
 *.xlsx
 *.xls
+*.png
 
 # ── Secrets & Credentials ─────────────────────────────────────────────────────
 .env
